@@ -12,3 +12,28 @@ This Java-based software system allows an admin to manage a quiz bank by adding 
 - **Requirements**:
     - JDK 8 or higher
     - `json-simple-1.1.1.jar` (download from [here](https://code.google.com/archive/p/json-simple/))
+ 
+  - **Steps**:
+    1. Clone the repository: `git clone <repository-url>`
+    2. Add `json-simple-1.1.1.jar` to your project’s classpath.
+    3. Open in an IDE (e.g., IntelliJ) 
+    4. Run the main class: `JavaQuizExam.java`
+
+## Project Structure
+
+- **`src/main/java/JavaQuizExam.java`**: Main Java file containing the quiz system logic.
+- **`src/main/resources/users.json`**: Stores user credentials.
+- **`src/main/resources/quiz.json`**: Stores the quiz bank with 30 initial SQA questions.
+- **`.gitignore`**: Excludes `.idea`, `.gradle`, `gradle`, and `build` files/folders.
+
+## Demo Video
+
+Watch the execution of the project for both admin and student roles: 
+
+## Notes
+
+- The quiz bank starts with 30 SQA-related questions. Admins can add more.
+- Scoring: Correct answers = 1 mark, wrong/invalid answers = 0 marks.
+
+
+

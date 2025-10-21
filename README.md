@@ -28,7 +28,7 @@ This Java-based software system allows an admin to manage a quiz bank by adding 
 
 ## Demo Video
 
-Watch the execution of the project for both admin and student roles: 
+Watch the execution of the project for both admin and student roles: https://drive.google.com/file/d/1u35tW26fT1bcoh6T4b4SjTzBwbgqqMei/view?usp=sharing
 
 ## Notes
 

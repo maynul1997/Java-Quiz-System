@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which testing is done without executing the code?",
+    "option 1": "Static Testing",
+    "option 2": "Dynamic Testing",
+    "option 3": "System Testing",
+    "option 4": "Sanity Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing ensures that changes have not affected existing functionality?",
+    "option 1": "Smoke Testing",
+    "option 2": "Regression Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Integration Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing evaluates a system's behavior under extreme load conditions?",
+    "option 1": "Smoke Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Functional Testing",
+    "option 4": "Stress Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which level of testing comes immediately after integration testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Smoke Testing",
+    "option 3": "System Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is a white-box testing technique?",
+    "option 1": "Usability Testing",
+    "option 2": "Exploratory Testing",
+    "option 3": "Path Testing",
+    "option 4": "Statement Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing focuses on user interface and user experience?",
+    "option 1": "Usability Testing",
+    "option 2": "Functional Testing",
+    "option 3": "Security Testing",
+    "option 4": "Performance Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following determines whether testing is complete?",
+    "option 1": "Entry Criteria",
+    "option 2": "Test Case Review",
+    "option 3": "Exit Criteria",
+    "option 4": "Risk Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "Which software development model involves frequent iterations and feedback?",
+    "option 1": "V-Model",
+    "option 2": "Agile Model",
+    "option 3": "Waterfall Model",
+    "option 4": "RAD Model",
+    "answerkey": 2
+  },
+  {
+    "question": "Which type of testing does not require knowledge of internal code structure?",
+    "option 1": "White Box Testing",
+    "option 2": "Unit Testing",
+    "option 3": "Black Box Testing",
+    "option 4": "User Acceptance Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which activity is considered a part of static testing?",
+    "option 1": "System Testing",
+    "option 2": "Walkthrough",
+    "option 3": "Unit Testing",
+    "option 4": "Integration Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is \"Black Box Testing\"?",
+    "option 1": "Testing internal code structure",
+    "option 2": "Testing without knowledge of code",
+    "option 3": "testing only UI",
+    "option 4": "testing security",
+    "answerkey": 2
+  },
+  {
+    "question": "Which tool is commonly used for defect tracking?",
+    "option 1": "Selenium",
+    "option 2": "JIRA",
+    "option 3": "Jenkins",
+    "option 4": "Git",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is a white-box testing technique?",
+    "option 1": "Equivalence Partitioning",
+    "option 2": "Boundary Value Testing",
+    "option 3": "Decision Table Testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing verifies basic functionality after a build?",
+    "option 1": "Regression Testing",
+    "option 2": "Smoke Testing",
+    "option 3": "Stress Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the main purpose of load testing?",
+    "option 1": "Check usability",
+    "option 2": "Verify performance under load",
+    "option 3": "Test code coverage",
+    "option 4": "Validate user interface",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is performed by end-users before release?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "User Acceptance Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is a characteristic of black-box testing?",
+    "option 1": "Requires code knowledge",
+    "option 2": "Focuses on internal logic",
+    "option 3": "Tests based on requirements",
+    "option 4": "Involves code review",
+    "answerkey": 3
+  },
+  {
+    "question": "What does STLC stand for?",
+    "option 1": "Software Testing Life Cycle",
+    "option 2": "System Testing Life Cycle",
+    "option 3": "Standard Testing Logical Cycle",
+    "option 4": "Software Technical Life Cycle",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing type focuses on security vulnerabilities?",
+    "option 1": "Performance Testing",
+    "option 2": "Security Testing",
+    "option 3": "Regression Testing",
+    "option 4": "Sanity Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is a dynamic testing technique?",
+    "option 1": "Code Review",
+    "option 2": "Walkthrough",
+    "option 3": "Test Execution",
+    "option 4": "Requirement Analysis",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of a test strategy?",
+    "option 1": "Define coding standards",
+    "option 2": "Outline testing approach",
+    "option 3": "List software features",
+    "option 4": "Train developers",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is done to ensure system reliability?",
+    "option 1": "Usability Testing",
+    "option 2": "Stress Testing",
+    "option 3": "Sanity Testing",
+    "option 4": "Exploratory Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which tool is used for automated functional testing?",
+    "option 1": "JIRA",
+    "option 2": "Selenium",
+    "option 3": "Git",
+    "option 4": "Jenkins",
+    "answerkey": 2
+  },
+  {
+    "question": "What is exploratory testing?",
+    "option 1": "Scripted testing with predefined cases",
+    "option 2": "Unscripted testing based on experience",
+    "option 3": "Testing system performance",
+    "option 4": "Testing code coverage",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing validates the entire system as a whole?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "Smoke Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which is a non-functional requirement?",
+    "option 1": "Login functionality",
+    "option 2": "Response time",
+    "option 3": "Data validation",
+    "option 4": "Error handling",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is performed to verify a fix quickly?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Exploratory Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is a key component of a test case?",
+    "option 1": "Code Snippet",
+    "option 2": "Expected Result",
+    "option 3": "Developer Notes",
+    "option 4": "Project Timeline",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing type ensures compatibility across browsers?",
+    "option 1": "Unit Testing",
+    "option 2": "Compatibility Testing",
+    "option 3": "Performance Testing",
+    "option 4": "Smoke Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does a traceability matrix link?",
+    "option 1": "Code to Developers",
+    "option 2": "Requirements to Test Cases",
+    "option 3": "Bugs to Fixes",
+    "option 4": "Tests to Tools",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is not a goal of performance testing?",
+    "option 1": "Measure response time",
+    "option 2": "Check system scalability",
+    "option 3": "Validate user interface",
+    "option 4": "Assess system capacity",
+    "answerkey": 3
+  }
+]
